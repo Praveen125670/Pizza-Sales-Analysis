@@ -18,8 +18,8 @@ Excel, Power BI.
 9) Provide a quick visualization for the Month on Month breakdown of our Revenue vs Orders
 
 ### Steps:
-Opening file in Excel.
-Formatting the data.
-Importing data in Power BI.
-Creating Dashboard.
-Getting Insight.
+- Opening file in Excel.
+- Formatting the data.
+- Importing data in Power BI.
+- Creating Dashboard.
+- Getting Insight.
